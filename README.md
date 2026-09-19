@@ -2,7 +2,7 @@
 
 A browser-based tool for generating personalised certificates from a template image and an Excel spreadsheet, with built-in bulk email delivery via SMTP.
 
-> Built by [Devjit Panja](https://www.linkedin.com/in/devjitpanja/)
+
 
 ---
 
@@ -233,4 +233,4 @@ MIT
 
 ## Author
 
-**Devjit Panja** — [LinkedIn](https://www.linkedin.com/in/devjitpanja/)
+**Nilansh Chaudhary**
